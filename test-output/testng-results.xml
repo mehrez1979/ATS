@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="54" started-at="2022-04-01T01:19:50 CEST" finished-at="2022-04-01T01:19:50 CEST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="54" started-at="2022-04-01T01:19:50 CEST" finished-at="2022-04-01T01:19:50 CEST">
+      <class name="ATS.TestLogin">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:ATS.TestLogin@1fe2924]" name="beforeSuite" is-config="true" duration-ms="21" started-at="2022-04-01T01:19:50 CEST" finished-at="2022-04-01T01:19:50 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="f()[pri:0, instance:ATS.TestLogin@1fe2924]" name="f" duration-ms="9" started-at="2022-04-01T01:19:50 CEST" finished-at="2022-04-01T01:19:50 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:ATS.TestLogin@1fe2924]" name="afterSuite" is-config="true" duration-ms="0" started-at="2022-04-01T01:19:50 CEST" finished-at="2022-04-01T01:19:50 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- ATS.TestLogin -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
