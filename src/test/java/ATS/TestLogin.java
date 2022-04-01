@@ -85,7 +85,6 @@ private WebDriver driver;
   }
 
   @Test(dataProvider="RegisterData")
-  @Xray(requirement = "AUT-1", test="AUT-2")
   public void TestLogin (String Username, String Password, String ResultatAttendu,int i) throws InterruptedException {
 	  
 		WebElement ObjUsername =  driver.findElement(By.xpath("//input[@id='username']"));
